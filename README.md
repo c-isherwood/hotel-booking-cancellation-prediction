@@ -6,8 +6,9 @@ forecasting, reduce revenue loss, and design more effective retention strategies
 
 This repository contains a cleaned and refactored version of a group project originally
 developed for **Boston University – QST 576: Machine Learning for Business Analytics**, adapted
-here as a standalone portfolio project. Note: for easiest use, follow the link to open the notebook in
-colab and update the file path. 
+here as a standalone portfolio project. 
+
+Note: For a project overview see Report. For easiest use, follow the link to open the notebook in colab and update the file path. 
 
 ---
 
